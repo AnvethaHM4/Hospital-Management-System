@@ -4,7 +4,7 @@
 
 **Addpage**->[Link](https://github.com/AnvethaHM4/Hospital-Management-System/tree/master/HospitalWebApp11/E4.png)
 
-**homepage**->[Link](https://github.com/AnvethaHM4/Hospital-Management-System/tree/master/HospitalWebApp11/E5.png)
+**Updatepage**->[Link](https://github.com/AnvethaHM4/Hospital-Management-System/tree/master/HospitalWebApp11/E5.png)
 
 **homepage**->[Link](https://github.com/AnvethaHM4/Hospital-Management-System/tree/master/HospitalWebApp11/E6.png)
 
